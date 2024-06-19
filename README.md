@@ -37,7 +37,7 @@ Analizar la siguiente problemática:
 	- Métodos:
 		- Agregar los métodos correspondientes; además agregar un método toString
 		- El valor mensual del pago del préstamo del automóvil es igual al valor del automóvil dividido para el número de meses.
-		- El método para establecer la ciudad del préstamo de tipo Prestamo Educativo debe asignar el valor siempre en mayúscula.
+		- El método para establecer la ciudad del préstamo de tipo Préstamo Automóvil debe asignar el valor siempre en mayúscula.
 		- Personalizar el método toString; usar el método de la superclase
 
 5. Crear una clase Préstamo Educativo que herede de Préstamo en lenguaje Java
@@ -50,7 +50,7 @@ Analizar la siguiente problemática:
 	- Método:
 		- Agregar los métodos correspondientes; además agregar un método toString
 		- El valor mensual del pago del préstamo del valor de la carrera es igual al (valor de la carrera dividido para el número de meses) menos 10% del (resultado del valor de la carrera dividido para el número de meses)  
-		- El método para establecer la ciudad del préstamo de tipo PrestamoEducativo debe asignar el valor siempre en mayúscula.
+		- El método para establecer la ciudad del préstamo de tipo Préstamo Educativo debe asignar el valor siempre en minúscula.
 		- Personalizar el método toString; usar el método de la superclase.
 
 
